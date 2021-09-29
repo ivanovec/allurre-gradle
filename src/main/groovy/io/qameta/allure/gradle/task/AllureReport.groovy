@@ -5,7 +5,7 @@ import io.qameta.allure.gradle.AllureReportContainer
 import io.qameta.allure.gradle.util.BuildUtils
 import org.gradle.api.Action
 import org.gradle.api.DefaultTask
-import org.gradle.api.internal.ClosureBackedAction
+import org.gradle.util.ClosureBackedAction
 import org.gradle.api.reporting.Reporting
 import org.gradle.api.tasks.Input
 import org.gradle.api.tasks.InputFiles
